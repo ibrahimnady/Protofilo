@@ -37,7 +37,7 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/protofilo-official/" className="d-flex">
+        <Navbar.Brand href="/Protofilo/" className="d-flex">
           {/* <img src={logo} className="img-fluid logo" alt="brand" /> */}
           <h1 className="img-fluid logo" style={{color:"#00ff08"}}> <AiOutlineHome/> </h1>
         </Navbar.Brand>
