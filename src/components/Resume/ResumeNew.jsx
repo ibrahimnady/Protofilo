@@ -10,6 +10,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 
 const resumeLink =
   "https://raw.githubusercontent.com/ibrahimnady/protofilo-official/master/src/Assets/Ibrahim_Nady_Data_Analyst.pdf";
+  
 // const resumeLink =
 // "http://localhost:3000/Assets/Ibrahim_Nady_Data_Analyst.pdf";
 
