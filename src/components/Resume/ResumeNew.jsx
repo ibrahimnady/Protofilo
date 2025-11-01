@@ -11,7 +11,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 const resumeLink =
   "https://raw.githubusercontent.com/ibrahimnady/protofilo-official/master/src/Assets/Ibrahim_Nady_Data_Analyst.pdf";
 // const resumeLink =
-// "http://localhost:3000/static/media/CV-ibrahim-nady.c788a70bda65f5a828b6.pdf";
+// "http://localhost:3000/Assets/Ibrahim_Nady_Data_Analyst.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
