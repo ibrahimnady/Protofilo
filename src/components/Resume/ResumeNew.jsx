@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/ibrahimnady/protofilo-official/master/src/Assets/Ibrahim_Nady_Data_Analyst.pdf";
+  "https://raw.githubusercontent.com/ibrahimnady/Protofilo/master/src/Assets/Ibrahim_Nady_Data_Analyst.pdf";
   
 // const resumeLink =
 // "http://localhost:3000/Assets/Ibrahim_Nady_Data_Analyst.pdf";
