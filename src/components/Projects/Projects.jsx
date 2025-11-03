@@ -2,6 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
+import onlineCourses from "../../Assets/Projects/online-courses.png";
+import SalesDashBoard from "../../Assets/Projects/Sales_Dashboard.png";
+import DashBoardEcomerce from "../../Assets/Projects/DashoardSales_Ecomerce.png";
+import OnlineEcomerce from "../../Assets/Projects/OnlineEcomerce.png";
+
 
 
 
@@ -17,19 +22,54 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={protofilo}
+              imgPath={onlineCourses}
               isBlog={false}
-              title="Protofilo"
-              description="This Site Was Created by html , css , react.js ,bootstrap ,reactIcons , reactstrap and fontawesome"
-              ghLink="https://github.com/ibrahimnady/protofilo-official.git"
-              demoLink="https://ibrahimnady.github.io/protofilo-official/"      
+              title="Online Courses Data Analysis Dashboard (Power BI)"
+              description="This project presents an interactive data analysis dashboard built using Microsoft Power BI to evaluate the performance, pricing, and content quality of online courses.
+              The dashboard delivers actionable insights into subscriber behavior, content value perception, and subject popularity "
+              ghLink="https://github.com/ibrahimnady/Online-Courses"
+              demoLink="https://github.com/ibrahimnady/Online-Courses/blob/main/Price_Analysis.png"
             />
-          </Col> */}
-          <h1 style={{ color: "white" }}>SOOOOON </h1>
-          <h1 style={{ color: "white" }}>We working to add More Projects Now  </h1>
+          </Col>
           
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={DashBoardEcomerce}
+              isBlog={false}
+              title="Analysis Dashboard Sales Project Excel By PowerBi"
+              description="This interactive Power BI dashboard provides a comprehensive view of company sales performance across multiple dimensions, including time, geography, product, and customer segmentation.
+              It offers clear visual insights into key performance metrics such as total sales, profit, discount value, and cost of goods sold (COGS).."
+              ghLink="https://github.com/ibrahimnady/DashBoard_Ecomerce"
+              demoLink="https://github.com/ibrahimnady/DashBoard_Ecomerce/blob/main/DashBoardSales.png"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={OnlineEcomerce}
+              isBlog={false}
+              title="DashBoard Sales Ecomerce By PowerBi "
+              description="This Power BI dashboard provides a global view of company performance across 2012–2015, analyzing sales, profits, losses, and return orders by market, region, and customer segment.
+              It delivers data-driven insights to support executive decisions and identify key markets and products that impact overall profitability."
+              ghLink="https://github.com/ibrahimnady/EcomerceOnline"
+              demoLink="https://github.com/ibrahimnady/EcomerceOnline/blob/main/EcomerceOnline.png"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={SalesDashBoard}
+              isBlog={false}
+              title="Sales Dashboard – Excel Data Analysis Project"
+              description="This project presents a Sales Dashboard built in Microsoft Excel to visualize key sales performance metrics and trends.
+              The dashboard provides an interactive overview of Total Sales and Total Customers, with detailed analysis by Branch, Payment Method, Date, and Product Category."
+              ghLink="https://github.com/ibrahimnady/Sales-DashBoard"
+              demoLink="https://github.com/ibrahimnady/Sales-DashBoard/blob/main/Sales_DashBoard.png"
+            />
+          </Col>
+          {/* <h1 style={{ color: "white" }}>SOOOOON </h1>
+          <h1 style={{ color: "white" }}>We working to add More Projects Now  </h1> */}
+
         </Row>
       </Container>
     </Container>

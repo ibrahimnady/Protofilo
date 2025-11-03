@@ -1,14 +1,18 @@
 {
   "files": {
     "main.css": "/Protofilo/static/css/main.b8f5a1f9.css",
-    "main.js": "/Protofilo/static/js/main.e21d96ba.js",
+    "main.js": "/Protofilo/static/js/main.393e2602.js",
     "static/js/787.4eeb15ed.chunk.js": "/Protofilo/static/js/787.4eeb15ed.chunk.js",
     "static/media/fa-solid-900.ttf": "/Protofilo/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/OnlineEcomerce.png": "/Protofilo/static/media/OnlineEcomerce.5363471f6c91d31c9ce8.png",
     "static/media/Ibrahim_Nady_Data_Analyst.pdf": "/Protofilo/static/media/Ibrahim_Nady_Data_Analyst.5077b28419e669892702.pdf",
+    "static/media/DashoardSales_Ecomerce.png": "/Protofilo/static/media/DashoardSales_Ecomerce.7fb35bce1614a174c0e5.png",
     "static/media/fa-brands-400.ttf": "/Protofilo/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
     "static/media/1670871717317.jpg": "/Protofilo/static/media/1670871717317.54fad1ead47d6e028e7b.jpg",
     "static/media/fa-solid-900.woff2": "/Protofilo/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/Sales_Dashboard.png": "/Protofilo/static/media/Sales_Dashboard.453afda4a63e024b4678.png",
     "static/media/home-main.svg": "/Protofilo/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/online-courses.png": "/Protofilo/static/media/online-courses.fd9de3e8f633021a682a.png",
     "static/media/fa-brands-400.woff2": "/Protofilo/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
     "static/media/about.png": "/Protofilo/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/fa-regular-400.ttf": "/Protofilo/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
@@ -20,11 +24,11 @@
     "static/media/pre.svg": "/Protofilo/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Protofilo/index.html",
     "main.b8f5a1f9.css.map": "/Protofilo/static/css/main.b8f5a1f9.css.map",
-    "main.e21d96ba.js.map": "/Protofilo/static/js/main.e21d96ba.js.map",
+    "main.393e2602.js.map": "/Protofilo/static/js/main.393e2602.js.map",
     "787.4eeb15ed.chunk.js.map": "/Protofilo/static/js/787.4eeb15ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8f5a1f9.css",
-    "static/js/main.e21d96ba.js"
+    "static/js/main.393e2602.js"
   ]
 }
