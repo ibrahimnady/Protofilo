@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/Protofilo/static/css/main.b8f5a1f9.css",
-    "main.js": "/Protofilo/static/js/main.94e5149d.js",
+    "main.js": "/Protofilo/static/js/main.b1e23106.js",
     "static/js/787.4eeb15ed.chunk.js": "/Protofilo/static/js/787.4eeb15ed.chunk.js",
     "static/media/fa-solid-900.ttf": "/Protofilo/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/Design-stats.gif": "/Protofilo/static/media/Design-stats.7617a30c16e31508cbaf.gif",
+    "static/media/Visual-data.gif": "/Protofilo/static/media/Visual-data.ac7528cf7deb20fa1623.gif",
     "static/media/OnlineEcomerce.png": "/Protofilo/static/media/OnlineEcomerce.5363471f6c91d31c9ce8.png",
     "static/media/Ibrahim_Nady_Data_Analyst.pdf": "/Protofilo/static/media/Ibrahim_Nady_Data_Analyst.5077b28419e669892702.pdf",
     "static/media/DashoardSales_Ecomerce.png": "/Protofilo/static/media/DashoardSales_Ecomerce.7fb35bce1614a174c0e5.png",
@@ -13,8 +15,7 @@
     "static/media/Sales_Dashboard.png": "/Protofilo/static/media/Sales_Dashboard.453afda4a63e024b4678.png",
     "static/media/online-courses.png": "/Protofilo/static/media/online-courses.fd9de3e8f633021a682a.png",
     "static/media/fa-brands-400.woff2": "/Protofilo/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
-    "static/media/about.png": "/Protofilo/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Visual-data-pana.svg": "/Protofilo/static/media/Visual-data-pana.141bc8ccfb457930e4d947993798370d.svg",
+    "static/media/Data-extraction-bro.svg": "/Protofilo/static/media/Data-extraction-bro.d91034cec42b2194e3f87a2822dfe022.svg",
     "static/media/fa-regular-400.ttf": "/Protofilo/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
     "static/media/home-bg.jpg": "/Protofilo/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/fa-regular-400.woff2": "/Protofilo/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
@@ -24,11 +25,11 @@
     "static/media/pre.svg": "/Protofilo/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Protofilo/index.html",
     "main.b8f5a1f9.css.map": "/Protofilo/static/css/main.b8f5a1f9.css.map",
-    "main.94e5149d.js.map": "/Protofilo/static/js/main.94e5149d.js.map",
+    "main.b1e23106.js.map": "/Protofilo/static/js/main.b1e23106.js.map",
     "787.4eeb15ed.chunk.js.map": "/Protofilo/static/js/787.4eeb15ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8f5a1f9.css",
-    "static/js/main.94e5149d.js"
+    "static/js/main.b1e23106.js"
   ]
 }
