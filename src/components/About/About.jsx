@@ -20,7 +20,7 @@ function About() {
             <Aboutcard />
           </Col>
           <Col md={5} style={{ paddingTop: "120px", paddingBottom: "50px" }} className="about-img">
-            <img src={laptopImg} alt="about" className="" />
+            <img src={laptopImg} alt="about" className="" style={{ width: "600px", maxWidth: "80%", height: "auto" }}/>
           </Col>
         </Row>
         <h1 className="project-heading">
