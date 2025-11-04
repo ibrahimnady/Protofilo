@@ -6,7 +6,7 @@ import onlineCourses from "../../Assets/Projects/online-courses.png";
 import SalesDashBoard from "../../Assets/Projects/Sales_Dashboard.png";
 import DashBoardEcomerce from "../../Assets/Projects/DashoardSales_Ecomerce.png";
 import OnlineEcomerce from "../../Assets/Projects/OnlineEcomerce.png";
-
+import laptopImg from "../../Assets/Data-extraction-bro.svg";
 
 
 
@@ -15,6 +15,7 @@ function Projects() {
     <Container fluid className="project-section">
       <Particle />
       <Container>
+        <img src={laptopImg} alt="about" className="" style={{ width: "400px", maxWidth: "80%", height: "auto" }} />
         <h1 className="project-heading">
           My Recent <strong className="purple">Works </strong>
         </h1>
