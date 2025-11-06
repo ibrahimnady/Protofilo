@@ -32,6 +32,7 @@ function Projects() {
               The dashboard delivers actionable insights into subscriber behavior, content value perception, and subject popularity "
               ghLink="https://github.com/ibrahimnady/Online-Courses"
               demoLink="https://github.com/ibrahimnady/Online-Courses/blob/main/Price_Analysis.png"
+              ReportLink="https://github.com/ibrahimnady/Online-Courses/blob/main/README.md"
             />
           </Col>
           
@@ -44,6 +45,7 @@ function Projects() {
               It offers clear visual insights into key performance metrics such as total sales, profit, discount value, and cost of goods sold (COGS).."
               ghLink="https://github.com/ibrahimnady/DashBoard_Ecomerce"
               demoLink="https://github.com/ibrahimnady/DashBoard_Ecomerce/blob/main/DashBoardSales.png"
+              ReportLink="https://github.com/ibrahimnady/DashBoard_Ecomerce/blob/main/README.md"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -55,6 +57,7 @@ function Projects() {
               It delivers data-driven insights to support executive decisions and identify key markets and products that impact overall profitability."
               ghLink="https://github.com/ibrahimnady/EcomerceOnline"
               demoLink="https://github.com/ibrahimnady/EcomerceOnline/blob/main/EcomerceOnline.png"
+              ReportLink="https://github.com/ibrahimnady/EcomerceOnline/blob/main/README.md"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -66,6 +69,7 @@ function Projects() {
               The dashboard provides an interactive overview of Total Sales and Total Customers, with detailed analysis by Branch, Payment Method, Date, and Product Category."
               ghLink="https://github.com/ibrahimnady/Sales-DashBoard"
               demoLink="https://github.com/ibrahimnady/Sales-DashBoard/blob/main/Sales_DashBoard.png"
+              ReportLink="https://github.com/ibrahimnady/Sales-DashBoard/blob/main/README.md"
             />
           </Col>
           {/* <h1 style={{ color: "white" }}>SOOOOON </h1>
