@@ -7,6 +7,7 @@ import {
   SiPandas
 } from "react-icons/si";
 import { RiFileExcel2Fill } from "react-icons/ri";
+import { SiPostgresql } from "react-icons/si";
 
 
 
@@ -28,6 +29,9 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode style={{color:"#14acf2"}}/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPostgresql style={{color:"#14acf2"}}/>
       </Col>
     </Row>
   );
