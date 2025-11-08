@@ -23,7 +23,7 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+          <Col xs={12} sm={12} md={6} lg={4} className="project-card">
             <ProjectCard
               imgPath={onlineCourses}
               isBlog={false}
@@ -36,7 +36,7 @@ function Projects() {
             />
           </Col>
           
-          <Col md={4} className="project-card">
+          <Col xs={12} sm={12} md={6} lg={4} className="project-card">
             <ProjectCard
               imgPath={DashBoardEcomerce}
               isBlog={false}
@@ -48,7 +48,7 @@ function Projects() {
               ReportLink="https://github.com/ibrahimnady/DashBoard_Ecomerce/blob/main/README.md"
             />
           </Col>
-          <Col md={4} className="project-card">
+          <Col xs={12} sm={12} md={6} lg={4} className="project-card">
             <ProjectCard
               imgPath={OnlineEcomerce}
               isBlog={false}
@@ -60,7 +60,7 @@ function Projects() {
               ReportLink="https://github.com/ibrahimnady/EcomerceOnline/blob/main/README.md"
             />
           </Col>
-          <Col md={4} className="project-card">
+          <Col xs={12} sm={12} md={6} lg={4} className="project-card">
             <ProjectCard
               imgPath={SalesDashBoard}
               isBlog={false}
