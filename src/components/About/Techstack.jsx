@@ -10,7 +10,6 @@ import {
 } from "react-icons/di";
 
 
-
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>

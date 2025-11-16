@@ -6,6 +6,7 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/Design-stats.gif";
 import Toolstack from "./Toolstack";
+import Certificate from "./Certificate";
 
 function About() {
   return (
@@ -23,6 +24,10 @@ function About() {
             <img src={laptopImg} alt="about" className="" style={{ width: "600px", maxWidth: "80%", height: "auto" }}/>
           </Col>
         </Row>
+        <h1 className="project-heading">
+          <strong className="purple">My </strong>Certificates 
+        </h1>
+        <Certificate />
         <h1 className="project-heading">
           <strong className="purple">Tools</strong> I use
         </h1>
