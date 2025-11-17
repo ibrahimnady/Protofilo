@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Protofilo/static/css/main.b8f5a1f9.css",
-    "main.js": "/Protofilo/static/js/main.374ad473.js",
+    "main.js": "/Protofilo/static/js/main.65c0bcfe.js",
     "static/js/787.4eeb15ed.chunk.js": "/Protofilo/static/js/787.4eeb15ed.chunk.js",
     "static/media/Excel.jpg": "/Protofilo/static/media/Excel.35528b5b86f5913387b3.jpg",
     "static/media/fa-solid-900.ttf": "/Protofilo/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
@@ -29,14 +29,15 @@
     "static/media/avatar.svg": "/Protofilo/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/fa-v4compatibility.ttf": "/Protofilo/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/fa-v4compatibility.woff2": "/Protofilo/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "static/media/svgexport-1.svg": "/Protofilo/static/media/svgexport-1.36a1ccae96591f569a498f44afdab62c.svg",
     "static/media/pre.svg": "/Protofilo/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Protofilo/index.html",
     "main.b8f5a1f9.css.map": "/Protofilo/static/css/main.b8f5a1f9.css.map",
-    "main.374ad473.js.map": "/Protofilo/static/js/main.374ad473.js.map",
+    "main.65c0bcfe.js.map": "/Protofilo/static/js/main.65c0bcfe.js.map",
     "787.4eeb15ed.chunk.js.map": "/Protofilo/static/js/787.4eeb15ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8f5a1f9.css",
-    "static/js/main.374ad473.js"
+    "static/js/main.65c0bcfe.js"
   ]
 }
