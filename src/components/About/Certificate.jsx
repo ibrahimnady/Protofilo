@@ -10,6 +10,7 @@ import Statistics from "../../Assets/Certificates/Statistics.jpeg";
 import DataScience from "../../Assets/Certificates/DataScience.jpeg";
 import Excel from "../../Assets/Certificates/Excel.jpg";
 import Python from "../../Assets/Certificates/python.jpeg";
+import Pandas from "../../Assets/Certificates/pandas.jpg";
 import Datascience from "../../Assets/svgexport-1.svg";
 
 
@@ -49,6 +50,11 @@ function Certificate() {
       img: Python,
       checkLink: "https://learn.365datascience.com/c/b57b1d0ec5/",
       githubLink: "https://github.com/ibrahimnady/Certificates/blob/main/Introduction%20to%20Python.pdf"
+    },
+    {
+      img: Pandas,
+      checkLink: "https://learn.365datascience.com/c/1f3c1dc69f/",
+      githubLink: "https://github.com/ibrahimnady/Certificates/blob/main/Pandas.pdf"
     },
   ];
   return (
