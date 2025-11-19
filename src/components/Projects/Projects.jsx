@@ -31,7 +31,7 @@ function Projects() {
               description="This project presents an interactive data analysis dashboard built using Microsoft Power BI to evaluate the performance, pricing, and content quality of online courses.
               The dashboard delivers actionable insights into subscriber behavior, content value perception, and subject popularity "
               ghLink="https://github.com/ibrahimnady/Online-Courses"
-              demoLink="https://github.com/ibrahimnady/Online-Courses/blob/main/Price_Analysis.png"
+              demoLink="https://app.powerbi.com/view?r=eyJrIjoiMjMzMDhlNzItNTU5MC00N2VjLTg1OTMtNTk5NjAxZDRhNTMyIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9"
               ReportLink="https://github.com/ibrahimnady/Online-Courses/blob/main/README.md"
             />
           </Col>
@@ -44,7 +44,7 @@ function Projects() {
               description="This interactive Power BI dashboard provides a comprehensive view of company sales performance across multiple dimensions, including time, geography, product, and customer segmentation.
               It offers clear visual insights into key performance metrics such as total sales, profit, discount value, and cost of goods sold (COGS).."
               ghLink="https://github.com/ibrahimnady/DashBoard_Ecomerce"
-              demoLink="https://github.com/ibrahimnady/DashBoard_Ecomerce/blob/main/DashBoardSales.png"
+              demoLink="https://app.powerbi.com/view?r=eyJrIjoiZDUwZWEwNmEtOTAwZC00MjRjLTgyNjMtNWE3ZTgxMTY5MWY0IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9"
               ReportLink="https://github.com/ibrahimnady/DashBoard_Ecomerce/blob/main/README.md"
             />
           </Col>
@@ -56,7 +56,7 @@ function Projects() {
               description="This Power BI dashboard provides a global view of company performance across 2012–2015, analyzing sales, profits, losses, and return orders by market, region, and customer segment.
               It delivers data-driven insights to support executive decisions and identify key markets and products that impact overall profitability."
               ghLink="https://github.com/ibrahimnady/EcomerceOnline"
-              demoLink="https://github.com/ibrahimnady/EcomerceOnline/blob/main/EcomerceOnline.png"
+              demoLink="https://app.powerbi.com/view?r=eyJrIjoiMjY3M2QxNmQtZTI4NS00NTljLTkzMWUtYmQ0ZjgxNWM3ZDM3IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9"
               ReportLink="https://github.com/ibrahimnady/EcomerceOnline/blob/main/README.md"
             />
           </Col>
@@ -74,7 +74,7 @@ function Projects() {
           </Col>
           {/* <h1 style={{ color: "white" }}>SOOOOON </h1>
           <h1 style={{ color: "white" }}>We working to add More Projects Now  </h1> */}
-
+          
         </Row>
       </Container>
     </Container>
