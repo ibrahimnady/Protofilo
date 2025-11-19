@@ -19,6 +19,7 @@ import "swiper/css/pagination";
 import "swiper/css/autoplay";
 
 
+
 function Certificate() {
   const certificates = [
     {
@@ -84,6 +85,7 @@ function Certificate() {
       
       <Swiper
         modules={[Autoplay, Pagination]}
+        
         spaceBetween={20}
         slidesPerView={3}
         autoplay={{ delay: 2000, disableOnInteraction: false }}
@@ -93,10 +95,12 @@ function Certificate() {
           768: { slidesPerView: 2 },     // تابلت
           992: { slidesPerView: 3 },     // لابتوب/ديسكتوب
         }}
+       
+
       >
         {certificates.map((cert, index) => (
           <SwiperSlide key={index}>
-            <div className="" style={{ marginBottom: "30px", width: "100%" }}>
+            <div className="tech-certificates" style={{ marginBottom: "30px",marginTop: "30px" , width: "100%" }}>
               <img
                 src={cert.img}
                 alt="certificate"
@@ -104,8 +108,9 @@ function Certificate() {
                   width: "100%",
                   height: "auto",
                   marginBottom: "15px",
-                  borderRadius: "8px",
+                  borderRadius: "20px",
                   padding: "10px",
+                  // border: "1px solid #a560c2",
                 }}
               />
               <div
@@ -135,7 +140,7 @@ function Certificate() {
                 >
                   <img
                     src={Datascience}
-                    style={{ width: "30px", marginRight: "5px" }}
+                    style={{ width: "50px", marginRight: "5px" }}
                   />
                   Verify
                 </Button>
