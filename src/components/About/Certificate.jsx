@@ -12,6 +12,11 @@ import Excel from "../../Assets/Certificates/Excel.jpg";
 import Python from "../../Assets/Certificates/python.jpeg";
 import Pandas from "../../Assets/Certificates/pandas.jpg";
 import Datascience from "../../Assets/svgexport-1.svg";
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Autoplay, Pagination } from "swiper/modules";
+import "swiper/css";
+import "swiper/css/pagination";
+import "swiper/css/autoplay";
 
 
 function Certificate() {
@@ -57,9 +62,10 @@ function Certificate() {
       githubLink: "https://github.com/ibrahimnady/Certificates/blob/main/Pandas.pdf"
     },
   ];
+  
   return (
-    <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      {certificates.map((cert, index) => (
+    <div style={{width: "100%", paddingBottom: "50px" }}>
+      {/* {certificates.map((cert, index) => (
         <Col xs={12} md={4} lg={3} key={index} className="tech-icons" style={{ marginBottom: "30px" }}>
           <img src={cert.img} alt="certificate" style={{ width: "100%", maxWidth: "", height: "auto", marginBottom: "15px", borderRadius: "8px" }} />
           <div className="d-flex gap-2 justify-content-center flex-column flex-md-row">
@@ -73,44 +79,74 @@ function Certificate() {
             </Button>
           </div>
         </Col>
-      ))}
+      ))} */}
+      
+      
+      <Swiper
+        modules={[Autoplay, Pagination]}
+        spaceBetween={20}
+        slidesPerView={3}
+        autoplay={{ delay: 2000, disableOnInteraction: false }}
+        pagination={{ clickable: true }}
+        breakpoints={{
+          0: { slidesPerView: 1 },       // موبايل
+          768: { slidesPerView: 2 },     // تابلت
+          992: { slidesPerView: 3 },     // لابتوب/ديسكتوب
+        }}
+      >
+        {certificates.map((cert, index) => (
+          <SwiperSlide key={index}>
+            <div className="" style={{ marginBottom: "30px", width: "100%" }}>
+              <img
+                src={cert.img}
+                alt="certificate"
+                style={{
+                  width: "100%",
+                  height: "auto",
+                  marginBottom: "15px",
+                  borderRadius: "8px",
+                  padding: "10px",
+                }}
+              />
+              <div
+                className="d-flex gap-2 justify-content-center"
+                style={{ flexWrap: "wrap" }}
+              >
+                <Button
+                  variant="primary"
+                  href={cert.githubLink}
+                  target="_blank"
+                  style={{ width: "100%", maxWidth: "180px" }}
+                >
+                  <BsGithub /> GitHub
+                </Button>
 
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <a href="https://github.com/ibrahimnady/Certificates/blob/main/Data_Visulaziation.pdf">
-          <img src={Data_Visulization} alt="about" className="" style={{ with: "300px", height: "300px" }} />
-        </a>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <a href="https://github.com/ibrahimnady/Certificates/blob/main/Advanced%20SQL.pdf">
-          <img src={AdvancedSQL} alt="about" className="" style={{ width: "300px", height: "300px" }} />
-        </a>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <a href="https://github.com/ibrahimnady/Certificates/blob/main/Power%20BI.pdf">
-          <img src={PowerBI} alt="about" className="" style={{ width: "300px", height: "300px" }} />
-        </a>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <a href="https://github.com/ibrahimnady/Certificates/blob/main/Statistics.pdf">
-          <img src={Statistics} alt="about" className="" style={{ width: "300px", height: "300px" }} />
-        </a>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <a href="https://github.com/ibrahimnady/Certificates/blob/main/Introduction%20to%20Data%20and%20Data%20Science.pdf">
-          <img src={DataScience} alt="about" className="" style={{ width: "300px", height: "300px" }} />
-        </a>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <a href="https://github.com/ibrahimnady/Certificates/blob/main/AdvancedExcel.pdf">
-          <img src={Excel} alt="about" className="" style={{ width: "300px", height: "300px" }} />
-        </a>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <a href="https://github.com/ibrahimnady/Certificates/blob/main/Introduction%20to%20Python.pdf">
-          <img src={Python} alt="about" className="" style={{ width: "300px", height: "300px" }} />
-        </a>
-      </Col> */}
-    </Row>
+                <Button
+                  variant="primary"
+                  href={cert.checkLink}
+                  target="_blank"
+                  style={{
+                    width: "100%",
+                    maxWidth: "180px",
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                  }}
+                >
+                  <img
+                    src={Datascience}
+                    style={{ width: "30px", marginRight: "5px" }}
+                  />
+                  Verify
+                </Button>
+              </div>
+            </div>
+          </SwiperSlide>
+        ))}
+      </Swiper>
+      </div>
+      
+    
   );
 }
 
