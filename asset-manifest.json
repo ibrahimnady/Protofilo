@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Protofilo/static/css/main.7057fa04.css",
-    "main.js": "/Protofilo/static/js/main.bce5f6bb.js",
+    "main.js": "/Protofilo/static/js/main.2638d87f.js",
     "static/js/787.4eeb15ed.chunk.js": "/Protofilo/static/js/787.4eeb15ed.chunk.js",
     "static/media/pandas.jpg": "/Protofilo/static/media/pandas.82b86d16b14448f1d79a.jpg",
     "static/media/Excel.jpg": "/Protofilo/static/media/Excel.35528b5b86f5913387b3.jpg",
@@ -38,11 +38,11 @@
     "index.html": "/Protofilo/index.html",
     "static/media/slick.woff": "/Protofilo/static/media/slick.295183786cd8a1389865.woff",
     "main.7057fa04.css.map": "/Protofilo/static/css/main.7057fa04.css.map",
-    "main.bce5f6bb.js.map": "/Protofilo/static/js/main.bce5f6bb.js.map",
+    "main.2638d87f.js.map": "/Protofilo/static/js/main.2638d87f.js.map",
     "787.4eeb15ed.chunk.js.map": "/Protofilo/static/js/787.4eeb15ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7057fa04.css",
-    "static/js/main.bce5f6bb.js"
+    "static/js/main.2638d87f.js"
   ]
 }
