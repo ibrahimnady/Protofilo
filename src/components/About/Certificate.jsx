@@ -66,23 +66,6 @@ function Certificate() {
   
   return (
     <div style={{width: "100%", paddingBottom: "50px" }}>
-      {/* {certificates.map((cert, index) => (
-        <Col xs={12} md={4} lg={3} key={index} className="tech-icons" style={{ marginBottom: "30px" }}>
-          <img src={cert.img} alt="certificate" style={{ width: "100%", maxWidth: "", height: "auto", marginBottom: "15px", borderRadius: "8px" }} />
-          <div className="d-flex gap-2 justify-content-center flex-column flex-md-row">
-            <Button variant="primary" href={cert.githubLink} target="_blank">
-              <BsGithub /> &nbsp;
-              GitHub
-            </Button>
-            <Button variant="primary" href={cert.checkLink} target="_blank" >
-              <img src={Datascience} style={{ width: "50px", height: "auto", marginBottom: "8px" }} />  &nbsp;
-              Verify &nbsp;
-            </Button>
-          </div>
-        </Col>
-      ))} */}
-      
-      
       <Swiper
         modules={[Autoplay, Pagination]}
         
