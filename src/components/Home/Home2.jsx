@@ -9,7 +9,7 @@ import {
   AiFillFacebook,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -58,13 +58,13 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
-        <Row>
+        <Row > 
           <Col md={12} className="home-about-social">
             <h1 style={{color:"gold" }}>FIND ME ON</h1>
             <p style={{color:"gold" }}>
               Feel free to <span className="purple">connect </span>with me
             </p>
-            <ul className="home-about-social-links">
+            <ul className="home-about-social-links ">
               <li className="social-icons">
                 <a href="https://github.com/ibrahimnady" target="_blank" rel="noreferrer" className="icon-colour  home-social-icons">
                   <AiFillGithub />
@@ -82,7 +82,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a href="https://wa.me/+201151262332" target="_blank" rel="noreferrer" className="icon-colour home-social-icons">
-                <i className="fa-brands fa-whatsapp"></i>
+                  <FaWhatsapp  />
                 </a>
               </li>
               <li className="social-icons">
