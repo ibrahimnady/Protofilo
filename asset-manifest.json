@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Protofilo/static/css/main.35843d3c.css",
-    "main.js": "/Protofilo/static/js/main.456b9f73.js",
+    "main.js": "/Protofilo/static/js/main.be6d4032.js",
     "static/js/787.4eeb15ed.chunk.js": "/Protofilo/static/js/787.4eeb15ed.chunk.js",
     "static/media/pandas.jpg": "/Protofilo/static/media/pandas.82b86d16b14448f1d79a.jpg",
     "static/media/Excel.jpg": "/Protofilo/static/media/Excel.35528b5b86f5913387b3.jpg",
@@ -15,7 +15,7 @@
     "static/media/AdvancedSQL.jpeg": "/Protofilo/static/media/AdvancedSQL.defb33dad17c95a6c7a0.jpeg",
     "static/media/Statistics.jpeg": "/Protofilo/static/media/Statistics.2719be92f1382cea5c55.jpeg",
     "static/media/PowerBI.jpeg": "/Protofilo/static/media/PowerBI.b8e3f38b577170f3f6a2.jpeg",
-    "static/media/Ibrahim_Nady_Data_Analyst.pdf": "/Protofilo/static/media/Ibrahim_Nady_Data_Analyst.5077b28419e669892702.pdf",
+    "static/media/Ibrahim_Nady_Data_Analyst.pdf": "/Protofilo/static/media/Ibrahim_Nady_Data_Analyst.5f5c7021134b8d42933a.pdf",
     "static/media/DashoardSales_Ecomerce.png": "/Protofilo/static/media/DashoardSales_Ecomerce.7fb35bce1614a174c0e5.png",
     "static/media/fa-brands-400.ttf": "/Protofilo/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
     "static/media/1670871717317.jpg": "/Protofilo/static/media/1670871717317.54fad1ead47d6e028e7b.jpg",
@@ -34,11 +34,11 @@
     "static/media/pre.svg": "/Protofilo/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Protofilo/index.html",
     "main.35843d3c.css.map": "/Protofilo/static/css/main.35843d3c.css.map",
-    "main.456b9f73.js.map": "/Protofilo/static/js/main.456b9f73.js.map",
+    "main.be6d4032.js.map": "/Protofilo/static/js/main.be6d4032.js.map",
     "787.4eeb15ed.chunk.js.map": "/Protofilo/static/js/787.4eeb15ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35843d3c.css",
-    "static/js/main.456b9f73.js"
+    "static/js/main.be6d4032.js"
   ]
 }
