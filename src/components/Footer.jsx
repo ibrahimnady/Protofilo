@@ -34,7 +34,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/ibrahim-nady-abdelrahman"
+                href="https://www.linkedin.com/in/IbrahimNadyabdelrahman"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -44,7 +44,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.facebook.com/IbrahimNady0"
+                href="https://www.facebook.com/IbrahimNadyabdelrahman"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -64,7 +64,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/ibrahimnady.tigon/"
+                href="https://www.instagram.com/IbrahimNadyabdelrahman/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

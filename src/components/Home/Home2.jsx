@@ -71,12 +71,12 @@ function Home2() {
                 </a>
               </li>
               <li className="social-icons">
-                <a href="https://www.linkedin.com/in/ibrahim-nady-abdelrahman" target="_blank" rel="noreferrer" className="icon-colour  home-social-icons">
+                <a href="https://www.linkedin.com/in/IbrahimNadyabdelrahman" target="_blank" rel="noreferrer" className="icon-colour  home-social-icons">
                   <FaLinkedinIn />
                 </a>
               </li>
               <li className="social-icons">
-                <a href="https://www.facebook.com/IbrahimNady0" target="_blank" rel="noreferrer" className="icon-colour home-social-icons">
+                <a href="https://www.facebook.com/IbrahimNadyabdelrahman" target="_blank" rel="noreferrer" className="icon-colour home-social-icons">
                   <AiFillFacebook />
                 </a>
               </li>
@@ -86,7 +86,7 @@ function Home2() {
                 </a>
               </li>
               <li className="social-icons">
-                <a href="https://www.instagram.com/ibrahimnady.tigon/" target="_blank" rel="noreferrer" className="icon-colour home-social-icons">
+                <a href="https://www.instagram.com/IbrahimNadyabdelrahman/" target="_blank" rel="noreferrer" className="icon-colour home-social-icons">
                   <AiFillInstagram />
                 </a>
               </li>
