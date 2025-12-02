@@ -44,7 +44,7 @@ function Projects() {
       title: "Pharmacy Dashboard – Power Bi Data Analysis Project",
       description: `This project presents an interactive Power BI dashboard for analyzing pharmacy performance, providing clear insights into sales, cost, profit, refunds, discounts, suppliers, and customer activity. It visualizes trends across months, quarters, and years, enabling fast and accurate decision-making. The dashboard helps identify seasonal patterns, track financial growth, and evaluate overall business efficiency.`,
       gh: "https://github.com/ibrahimnady/Pharmacys",
-      demo: "https://github.com/ibrahimnady/Pharmacys/blob/main/OverView.png",
+      demo: "https://app.powerbi.com/view?r=eyJrIjoiODIwMmQ4NzMtYzE3OS00YzFhLWE4ZDMtMDg1NmMzNDM1NWI5IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9",
       report: "https://github.com/ibrahimnady/Pharmacys/blob/main/README.md",
     },
     {
