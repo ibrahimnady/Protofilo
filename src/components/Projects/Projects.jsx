@@ -12,14 +12,14 @@ import Pharmacies from "../../Assets/Projects/Pharmacies.png";
 
 function Projects() {
   const projects = [
+    
     {
-      img: onlineCourses,
-      title: "Online Courses Data Analysis Dashboard (Power BI)",
-      description: `This project presents an interactive data analysis dashboard built using Microsoft Power BI to evaluate the performance, pricing, and content quality of online courses. 
-      The dashboard delivers actionable insights into subscriber behavior, content value perception, and subject popularity.`,
-      gh: "https://github.com/ibrahimnady/Online-Courses",
-      demo: "https://app.powerbi.com/view?r=eyJrIjoiMjMzMDhlNzItNTU5MC00N2VjLTg1OTMtNTk5NjAxZDRhNTMyIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9",
-      report: "https://github.com/ibrahimnady/Online-Courses/blob/main/README.md",
+      img: Pharmacies,
+      title: "Pharmacy Dashboard – Power Bi Data Analysis Project",
+      description: `This project presents an interactive Power BI dashboard for analyzing pharmacy performance, providing clear insights into sales, cost, profit, refunds, discounts, suppliers, and customer activity. It visualizes trends across months, quarters, and years, enabling fast and accurate decision-making. The dashboard helps identify seasonal patterns, track financial growth, and evaluate overall business efficiency.`,
+      gh: "https://github.com/ibrahimnady/Pharmacys",
+      demo: "https://app.powerbi.com/view?r=eyJrIjoiN2RhZTA3NjYtOTNkNy00YzhhLWFmNjctNzg4MmE1YzRlZGYyIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9",
+      report: "https://github.com/ibrahimnady/Pharmacys/blob/main/README.md",
     },
     {
       img: DashBoardEcomerce,
@@ -40,12 +40,13 @@ function Projects() {
       report: "https://github.com/ibrahimnady/EcomerceOnline/blob/main/README.md",
     },
     {
-      img: Pharmacies,
-      title: "Pharmacy Dashboard – Power Bi Data Analysis Project",
-      description: `This project presents an interactive Power BI dashboard for analyzing pharmacy performance, providing clear insights into sales, cost, profit, refunds, discounts, suppliers, and customer activity. It visualizes trends across months, quarters, and years, enabling fast and accurate decision-making. The dashboard helps identify seasonal patterns, track financial growth, and evaluate overall business efficiency.`,
-      gh: "https://github.com/ibrahimnady/Pharmacys",
-      demo: "https://app.powerbi.com/view?r=eyJrIjoiN2RhZTA3NjYtOTNkNy00YzhhLWFmNjctNzg4MmE1YzRlZGYyIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9",
-      report: "https://github.com/ibrahimnady/Pharmacys/blob/main/README.md",
+      img: onlineCourses,
+      title: "Online Courses Data Analysis Dashboard (Power BI)",
+      description: `This project presents an interactive data analysis dashboard built using Microsoft Power BI to evaluate the performance, pricing, and content quality of online courses. 
+      The dashboard delivers actionable insights into subscriber behavior, content value perception, and subject popularity.`,
+      gh: "https://github.com/ibrahimnady/Online-Courses",
+      demo: "https://app.powerbi.com/view?r=eyJrIjoiMjMzMDhlNzItNTU5MC00N2VjLTg1OTMtNTk5NjAxZDRhNTMyIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9",
+      report: "https://github.com/ibrahimnady/Online-Courses/blob/main/README.md",
     },
     {
       img: SalesDashBoard,
