@@ -45,7 +45,7 @@ function Projects() {
       description: `This project presents an interactive data analysis dashboard built using Microsoft Power BI to evaluate the performance, pricing, and content quality of online courses. 
       The dashboard delivers actionable insights into subscriber behavior, content value perception, and subject popularity.`,
       gh: "https://github.com/ibrahimnady/Online-Courses",
-      demo: "https://app.powerbi.com/view?r=eyJrIjoiMjMzMDhlNzItNTU5MC00N2VjLTg1OTMtNTk5NjAxZDRhNTMyIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9",
+      demo: "https://app.powerbi.com/view?r=eyJrIjoiZTRiY2NmMDUtNGI1ZC00NjIwLWIyZjktZTkwY2QzY2Q5NzFmIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9",
       report: "https://github.com/ibrahimnady/Online-Courses/blob/main/README.md",
     },
     {
