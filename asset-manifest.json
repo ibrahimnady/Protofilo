@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Protofilo/static/css/main.35843d3c.css",
-    "main.js": "/Protofilo/static/js/main.29be6a48.js",
+    "main.js": "/Protofilo/static/js/main.0e29870d.js",
     "static/js/787.4eeb15ed.chunk.js": "/Protofilo/static/js/787.4eeb15ed.chunk.js",
     "static/media/pandas.jpg": "/Protofilo/static/media/pandas.82b86d16b14448f1d79a.jpg",
     "static/media/Excel.jpg": "/Protofilo/static/media/Excel.35528b5b86f5913387b3.jpg",
@@ -22,6 +22,7 @@
     "static/media/fa-solid-900.woff2": "/Protofilo/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
     "static/media/Pharmacies.png": "/Protofilo/static/media/Pharmacies.7ce45c55775017e89369.png",
     "static/media/Sales_Dashboard.png": "/Protofilo/static/media/Sales_Dashboard.453afda4a63e024b4678.png",
+    "static/media/Retail_Sales_Analytics_Dashboard.png": "/Protofilo/static/media/Retail_Sales_Analytics_Dashboard.6ab5ebed6430626f9dc3.png",
     "static/media/online-courses.png": "/Protofilo/static/media/online-courses.fd9de3e8f633021a682a.png",
     "static/media/fa-brands-400.woff2": "/Protofilo/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
     "static/media/Data-extraction-bro.svg": "/Protofilo/static/media/Data-extraction-bro.d91034cec42b2194e3f87a2822dfe022.svg",
@@ -35,11 +36,11 @@
     "static/media/pre.svg": "/Protofilo/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Protofilo/index.html",
     "main.35843d3c.css.map": "/Protofilo/static/css/main.35843d3c.css.map",
-    "main.29be6a48.js.map": "/Protofilo/static/js/main.29be6a48.js.map",
+    "main.0e29870d.js.map": "/Protofilo/static/js/main.0e29870d.js.map",
     "787.4eeb15ed.chunk.js.map": "/Protofilo/static/js/787.4eeb15ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35843d3c.css",
-    "static/js/main.29be6a48.js"
+    "static/js/main.0e29870d.js"
   ]
 }
