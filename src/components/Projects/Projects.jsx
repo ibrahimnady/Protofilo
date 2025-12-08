@@ -9,6 +9,7 @@ import DashBoardEcomerce from "../../Assets/Projects/DashoardSales_Ecomerce.png"
 import OnlineEcomerce from "../../Assets/Projects/OnlineEcomerce.png";
 import laptopImg from "../../Assets/Data-extraction-bro.svg";
 import Pharmacies from "../../Assets/Projects/Pharmacies.png";
+import Retail_Sales from "../../Assets/Projects/Retail_Sales_Analytics_Dashboard.png";
 
 function Projects() {
   const projects = [
@@ -20,6 +21,14 @@ function Projects() {
       gh: "https://github.com/ibrahimnady/Pharmacys",
       demo: "https://app.powerbi.com/view?r=eyJrIjoiN2RhZTA3NjYtOTNkNy00YzhhLWFmNjctNzg4MmE1YzRlZGYyIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9",
       report: "https://github.com/ibrahimnady/Pharmacys/blob/main/README.md",
+    },
+    {
+      img: Retail_Sales,
+      title: "Retail Sales Analytics Dashboard",
+      description: `This Power BI dashboard provides detailed analytical insights into the overall sales performance and profitability of the business. It covers key metrics such as Total Net Sales, Gross Profit, COGS, and a crucial breakdown of sales by Brand, Client, and Volume Size.`,
+      gh: "https://github.com/ibrahimnady/Retail-Sales-Analytics-Dashboard",
+      demo: "https://app.powerbi.com/view?r=eyJrIjoiY2VmZDBjOTktODQxNS00OTBkLWFiNDAtYzlkYTU2MzYyNWUzIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9",
+      report: "https://github.com/ibrahimnady/Retail-Sales-Analytics-Dashboard/blob/main/README.md",
     },
     {
       img: DashBoardEcomerce,
